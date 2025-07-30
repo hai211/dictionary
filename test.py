@@ -34,3 +34,4 @@ b_list =[]
 
 b_list = [i*i for i in a_list if i%2==0] # pythonic
 print(b_list)
+print("hello")
